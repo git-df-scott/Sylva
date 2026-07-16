@@ -437,6 +437,8 @@ input[type="range"]::-moz-range-thumb {
 
 /* -------------------------------------------------------------- greenhouse */
 
+#greenhouse[hidden] { display: none; }
+
 #greenhouse {
   position: fixed;
   inset: 0;
